@@ -52,3 +52,9 @@ Crimes Increasing:
 ![Human Trafficking by Year](/Data/Images/screenshot6.png)
 
 
+For Further Information
+For any additional questions, please contact:
+
+Echo Diaz (Data Scientist) 
+[LinkedIn](https://www.linkedin.com/in/virtual-echo/)
+eckoecho@gmail.com
