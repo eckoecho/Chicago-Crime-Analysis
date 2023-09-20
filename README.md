@@ -1,6 +1,4 @@
 # preparing-chicago-crime-data
- 
-- 
 
 ## Inspecting Chicago Crimes from 2001-2023
 
