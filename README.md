@@ -32,25 +32,25 @@ Crimes Increasing:
 #### Homicide by Year
 725 homicides in 2022
 
-**screenshot2
+![Homicide by Year](/Data/Images/screenshot2.png)
 
 #### Stalking by Year
 450 cases of stalking in 2022
 
-**screenshot3
+![Stalking Assault by Year](/Data/Images/screenshot3.png)
+
 
 #### Motor Vehicle Thefts by Year
 23,000 motor vehicle thefts in 2022
 
-**screenshot4
+![Motor Vehicle Thefts](/Data/Images/screenshot4.png)
 
 #### Weapons Violation by Year
 9,000 weapons violations in 2022
-**screenshot5
+![Weapons Violation by Year](/Data/Images/screenshot5.png)
 
 #### Human Trafficking by Year
 16 cases of human trafficking in 2016
-
-**screenshot6
+![Human Trafficking by Year](/Data/Images/screenshot6.png)
 
 
