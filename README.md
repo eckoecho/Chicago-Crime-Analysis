@@ -26,7 +26,8 @@ Crimes Increasing:
 #### Sexual Assault by Year
 1,550 sexual assults in 2022
 
-![Sexual Assault by Year](Images/screenshot1.png)
+![Sexual Assault by Year]("/Images/screenshot1.png")
+
     
 #### Homicide by Year
 725 homicides in 2022
