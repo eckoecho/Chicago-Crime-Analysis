@@ -52,7 +52,7 @@ Weapon Violations were relatively low for 16 years until 2020. In 2022, 9,000 we
 ![Weapons Violation by Year](/Data/Images/screenshot5.png)
 
 #### Human Trafficking by Year
-16 cases of human trafficking in 2016
+Human Trafficking dipped in 2020 and 2021, no doubt due to the COVID pandemic. But, Chicago had its highest number in 2022 with 16 cases of human trafficking.
 ![Human Trafficking by Year](/Data/Images/screenshot6.png)
 
 
