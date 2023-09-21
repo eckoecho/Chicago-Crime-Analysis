@@ -43,7 +43,7 @@ Stalking was relatively low until 2021. Its possible this could be the effects f
 
 
 #### Motor Vehicle Thefts by Year
-Motor Vehicle crime is back up since 2006. There were 23,000 motor vehicle thefts in 2022
+Motor Vehicle crime is back up since 2006. There were 23,000 motor vehicle thefts in 2022.
 
 ![Motor Vehicle Thefts](/Data/Images/screenshot4.png)
 
