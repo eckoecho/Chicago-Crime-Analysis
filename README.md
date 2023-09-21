@@ -37,18 +37,18 @@ From 2004 - 2015, crime was relatively low, staying around 450-525 homcides per 
 ![Homicide by Year](/Data/Images/screenshot2.png)
 
 #### Stalking by Year
-450 cases of stalking in 2022
+Stalking was relatively low until 2021. Its possible this could be the effects from the COVID pandemic.  Stalking cases have more than doubled to 450 cases in 2022.
 
 ![Stalking Assault by Year](/Data/Images/screenshot3.png)
 
 
 #### Motor Vehicle Thefts by Year
-23,000 motor vehicle thefts in 2022
+Motor Vehicle crime is back up since 2006. There were 23,000 motor vehicle thefts in 2022
 
 ![Motor Vehicle Thefts](/Data/Images/screenshot4.png)
 
 #### Weapons Violation by Year
-9,000 weapons violations in 2022
+Weapon Violations were relatively low for 16 years until 2020. In 2022, 9,000 weapons violations were reported, the second highest only behind 2021.
 ![Weapons Violation by Year](/Data/Images/screenshot5.png)
 
 #### Human Trafficking by Year
