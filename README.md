@@ -6,7 +6,11 @@ Author: Echo Diaz
 
 My goal of this analysis is to help law enforcement to understand the various crimes that play crucial roles in Chicago's communities. The target is to highlight the patterns in crime over two decades, which districts have the most activity. My process is to target the year and month to find any seasonality. I ask and answer pointed questions to get an overall makeup of Chicago crimes. Law Enforcement can use this analysis to send extra or specialized mental health counselors to aid in officiers collecting evidence and provide guidance.
 
+While crime in Chicago has a negative skew, trending in a decline in crime, there is plenty to gleen from this data.
 
+### The total number of crimes is decreasing across the years, seemlingly dropping 30% every decade.
+
+![Crime by Year](/Data/Images/screenshot7.png)
 
 
 ### **Are there any individual crimes that are doing the opposite (e.g decreasing when overall crime is increasing or vice-versa)?**
