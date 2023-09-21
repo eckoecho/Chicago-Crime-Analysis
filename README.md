@@ -56,6 +56,19 @@ Human Trafficking dipped in 2020 and 2021, no doubt due to the COVID pandemic. B
 ![Human Trafficking by Year](/Data/Images/screenshot6.png)
 
 
+# Recommendations:
+
+Utilize this data analysis to identify trends and allocate resources more effectively to prevent violent crime. Invest in quality education and job training programs, particularly in underserved communities, to provide people with better economic opportunities and reduce the motivations for criminal activity.
+
+Enforce strict gun control measures, including background checks, waiting periods, and restrictions on high-capacity magazines and assault weapons. Reducing access to firearms can significantly impact the rate of gun-related homicides.
+
+Train law enforcement officers to handle sexual assault cases sensitively and professionally. Establish specialized units for investigating sexual assault cases and prioritize victim-centered approaches. Advocate for and enforce strong laws against sexual assault. Remove legal barriers that can deter survivors from reporting, such as statutes of limitations.
+
+Use data analysis to identify trends and hotspots for vehicle theft, allowing law enforcement to allocate resources more effectively. Create or support specialized law enforcement units focused on auto theft prevention and investigation. Increase police presence in areas with higher rates of vehicle theft to deter potential thieves and respond more quickly to incidents.Educate the public about the importance of vehicle security. Encourage residents to lock their cars, take their keys, and hide valuables to reduce opportunities for theft. 
+
+Establish hotlines and reporting mechanisms where individuals can safely report suspected cases of human trafficking. Ensure that reports are handled discreetly and that whistleblowers are protected. Target the demand for commercial sex acts and forced labor by implementing policies and programs that deter potential buyers and employers. This may involve legal measures and awareness campaigns. Invest in research and data collection to better understand the patterns and trends of human trafficking in the city. Use this information to tailor prevention and intervention efforts.
+
+__________________________________________
 For Further Information
 For any additional questions, please contact:
 
