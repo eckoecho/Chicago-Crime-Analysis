@@ -26,13 +26,13 @@ Crimes Increasing:
 
 
 #### Sexual Assault by Year
-1,550 sexual assults in 2022
+Sexual assults are on the rise, dipping in 2020 due to the COVID epidemic and mimicing 2005 with 1,550 sexual assults in 2022 alone.
 
 ![Sexual Assault by Year](/Data/Images/screenshot1.png)
 
     
 #### Homicide by Year
-725 homicides in 2022
+From 2004 - 2015, crime was relatively low, staying around 450-525 homcides per year. However, that changed in 2016 in which crime skyrocketed to around 800 homicides. Crime remains high since then, sitting at 725 homicides in 2022.
 
 ![Homicide by Year](/Data/Images/screenshot2.png)
 
