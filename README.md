@@ -4,9 +4,9 @@
 
 Author: Echo Diaz
 
-My goal of this analysis is to help law enforcement to understand the various crimes that play crucial roles in Chicago's communities. The target is to highlight the patterns in crime over two decades, which districts have the most activity. My process is to target the year and month to find any seasonality. I ask and answer pointed questions to get an overall makeup of Chicago crimes. Law Enforcement can use this analysis to send extra or specialized mental health counselors to aid in officiers collecting evidence and provide guidance.
+My goal with this analysis is to assist law enforcement in understanding the various crimes that play crucial roles in Chicago's communities. The analysis highlights crime patterns over two decades and identifies districts with the most activity. Law enforcement can leverage this analysis to allocate resources effectively and provide specialized support where needed.
 
-While crime in Chicago has a negative skew, trending in a decline in crime, there is plenty to gleen from this data.
+While crime in Chicago has a negative skew, trending in a decline, there is valuable information to glean from this data.
 
 ### The total number of crimes is decreasing across the years, seemlingly dropping 30% every decade.
 
@@ -16,7 +16,6 @@ While crime in Chicago has a negative skew, trending in a decline in crime, ther
 ### **Are there any individual crimes that are doing the opposite (e.g decreasing when overall crime is increasing or vice-versa)?**
 
 Crimes Increasing:
-
     * Criminal Sexual Assault
     * Homicide 
     * Stalking
@@ -25,7 +24,7 @@ Crimes Increasing:
     * Human Trafficking
 
 
-#### Sexual Assault by Year
+#### Criminal Sexual Assault by Year
 Sexual assults are on the rise, dipping in 2020 due to the COVID epidemic and mimicing 2005 with 1,550 sexual assults in 2022 alone.
 
 ![Sexual Assault by Year](/Data/Images/screenshot1.png)
