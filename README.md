@@ -81,7 +81,6 @@ Create specialized law enforcement units focused on auto theft prevention.
 
 Establish hotlines and reporting mechanisms for human trafficking cases.
 Invest in research and data collection to understand the patterns of human trafficking.
-This project aims to contribute to creating safer communities in Chicago by providing actionable insights derived from thorough data analysis.
 
 __________________________________________
 For Further Information
