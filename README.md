@@ -16,6 +16,7 @@ While crime in Chicago has a negative skew, trending in a decline, there is valu
 ### **Are there any individual crimes that are doing the opposite (e.g decreasing when overall crime is increasing or vice-versa)?**
 
 Crimes Increasing:
+
     * Criminal Sexual Assault
     * Homicide 
     * Stalking
